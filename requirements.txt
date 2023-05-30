@@ -1,2 +1,6 @@
 #streamlit-webrtc==0.31.3
 opencv
+cvzone
+numpy
+math
+import time
