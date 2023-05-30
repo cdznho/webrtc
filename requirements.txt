@@ -1,6 +1,10 @@
 #streamlit-webrtc==0.31.3
-opencv
+#opencv
 cvzone
 numpy
 math
 time
+opencv-python-headless
+opencv-contrib-python-headless
+cvzone
+mediapipe==0.8.9
