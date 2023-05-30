@@ -2,8 +2,6 @@
 #opencv
 cvzone
 numpy
-math
-time
 opencv-python-headless
 opencv-contrib-python-headless
 cvzone
