@@ -4,4 +4,4 @@ numpy
 #opencv-python-headless
 #opencv-contrib-python-headless
 cvzone
-mediapipe==0.8.9
+mediapipe
