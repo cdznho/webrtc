@@ -1,1 +1,2 @@
-streamlit-webrtc==0.31.3
+#streamlit-webrtc==0.31.3
+opencv
